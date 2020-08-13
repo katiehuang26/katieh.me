@@ -1,0 +1,14 @@
+
+body {
+    background-image: url(https://storage.needpix.com/rsynced_images/papier-pastel-1.jpg);
+    font-family: 'Allerta', sans-serif;
+}
+
+h1 {
+    font-family: 'Over the Rainbow', sans-serif;
+}
+
+img {
+    max-width: 700px;
+    height: auto;
+}
